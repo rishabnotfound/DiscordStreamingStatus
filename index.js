@@ -18,7 +18,7 @@ client.on("ready", () => {
         .setType("STREAMING")
         .setApplicationId("CLIENT_ID")
         .setAssetsLargeImage(image.id)
-        .setAssetsLargeText("youtube.com/SealedSaucer")
+        .setAssetsLargeText("youtube.com/CHANGETHIS")
         .setDetails("Subscribe!")
  
         client.user.setPresence(presence.toDiscord())
