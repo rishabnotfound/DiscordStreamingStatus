@@ -1,5 +1,9 @@
 # Discord Streaming Status 🎮📺
 
+![alt text](image.png)
+
+(NOT WORKING ANY MORE OUTDATED I WONT BE UPDATING IT FR)
+
 Welcome to Discord Streaming Status, a simple tool to enhance your Discord presence by displaying your current streaming activity! With this tool, you can easily update your Discord status to showcase the game you're currently streaming, making it easier for your friends and community to join you for some gaming fun. Let's get started! 🚀
 
 ## Features ✨
