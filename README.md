@@ -1,6 +1,8 @@
 # Discord Streaming Status 🎮📺
 
-![alt text](image.png)
+<img width="1107" height="597" alt="image" src="https://github.com/user-attachments/assets/f4fef0a8-1196-4bcc-8dd2-4bcfb4ba6b41" />
+
+
 
 (NOT WORKING ANY MORE OUTDATED I WONT BE UPDATING IT FR)
 
@@ -34,7 +36,6 @@ Discord Streaming Status is built using the following technologies:
 4. Configure the data in index.js.
 5. Run the index.js.
 6. Your Discord status will now reflect your current streaming activity!
-
 ## Contributing 🤝
 
 Contributions are welcome! If you have any suggestions, bug fixes, or new features to propose, please feel free to open an issue or submit a pull request.
